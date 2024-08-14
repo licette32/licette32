@@ -15,7 +15,7 @@
 
 * 👯 I'm looking to work on open source data science projects that tackle real-world problems, and a web development project where I can contribute to both front-end and back-end.
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 Languages and Tools
 
 <h3 align="left"></h3>
 <table>
