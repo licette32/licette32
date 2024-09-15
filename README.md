@@ -25,11 +25,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,react,ts"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js"/></td>
     </tr>
         <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -45,7 +45,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,eclipse,visualstudio,sublime,rstudio"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,r"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
