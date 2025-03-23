@@ -46,10 +46,6 @@
       <td style="padding: 15px;"><img height="40" src="https://skillicons.dev/icons?i=gcp,azure"/></td>
     </tr>
     <tr style="background-color: #f1f1f1;">
-      <td style="font-weight: bold; padding: 15px; vertical-align: middle;">Version Control</td>
-      <td style="padding: 15px;"><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
-    </tr>
-    <tr style="background-color: #f1f1f1;">
       <td style="font-weight: bold; padding: 15px; vertical-align: middle;">Automated Test</td>
       <td style="padding: 15px;"><img height="40" src="https://skillicons.dev/icons?i=selenium"/></td>
     </tr>
