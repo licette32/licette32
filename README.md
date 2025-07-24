@@ -3,6 +3,7 @@
 
 ![Banner Beverly](banner-beverly.png)
 
+***
 
 ## 📖 About me
 
