@@ -7,21 +7,21 @@
  
 🎶 Aficionada del metal sinfónico y la vida en el campo 🌿  
 
-💻 Soy **Técnica Superior en Ciencia de Datos e Inteligencia Artificial**, y Téc. Sup. en Gestión y Mantenimiento de Equipamiento Biomédico.  
+💻 Soy **Técnica Superior en Ciencia de Datos e Inteligencia Artificial**, y en Gestión y Mantenimiento de Equipamiento Biomédico.  
 
-🎓 Actualmente estudio **Licenciatura en Administración y Gestión de la Información** y cursé 3 años de Lic. en Física Médica.  
+🎓 Actualmente estudio **Licenciatura en Administración y Gestión de la Información** y con 3 años de Lic. en Física Médica.  
 
-🌱 Ampliando mis habilidades en **desarrollo full stack** (especialmente back-end), explorando la transición de **Web2 a Web3**.  
+🌱 Explorando **desarrollo full stack** (back-end) y transición de **Web2 a Web3**.  
 
-🔬 Mi principal interés es la intersección entre IA, salud y sistemas de información.  
+🔬 Intereses: IA, salud y sistemas de información.  
 
-🔭 Para aplicar mis conocimientos, desarrollo proyectos personales de ciencia de datos, IA y desarrollo web para mi portfolio.  
+🔭 Desarrollando proyectos personales de data science, IA y web para mi porfolio.  
 
 🤝 Contribución y formación:
 
-* Busco contribuir a proyectos open source de ciencia de datos y desarrollo web que resuelvan problemas del mundo real.
+* Proyectos open source de ciencia de datos y desarrollo web.
 
-* Participo activamente en el bootcamp Digitalers de Inteligencia Artificial y en Dev3Pack.
+* Participante activa en el bootcamp Digitalers en Inteligencia Artificial y Dev3Pack.
 
 
 
