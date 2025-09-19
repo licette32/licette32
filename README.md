@@ -159,7 +159,7 @@
           <p style="color: #c9d1d9;"><em>Aplicación e-commerce para venta de artículos de pesca y camping.<br>Backend con Node.js, Express, Sequelize y MySQL.</em></p>
           <img src="https://img.shields.io/badge/Tipo-Web%20Dev-4daf4a?style=for-the-badge&logo=node.js&logoColor=white">
           <br><br>
-          <a href="https://github.com/tuusuario/ecommerce-CRUD-BD-MySQL">
+          <a href="https://github.com/licette32/ecommerce-CRUD-BD-MySQL">
             <img src="https://img.shields.io/badge/Ver%20Proyecto-4daf4a?style=for-the-badge&logo=github&logoColor=white">
           </a>
         </div>
@@ -168,6 +168,43 @@
   </table>
 </div>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<div align="center">
+
+<!-- Stats generales en dos columnas -->
+<table>
+<tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=licette32&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licette32&layout=donut-vertical&theme=aura&hide_border=true" height="250"/>
+    </td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=licette32&theme=aura&hide_border=false" height="200"/>
+</td>
+<td>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJnYzRlMnE1eTY3dDR4M3hxcHRzbXFzbmg3bWtmNGwyZnZlNnY3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KB21ni7aFuA9wB0iQD/giphy.gif" height="140">
+<tr>
+</table>
+<!-- Lenguajes más usados (repos y commits) -->
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=licette32&theme=radical" height="200"/>
+        </td>
+        <td>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=licette32&theme=radical" height="200"/>
+        </td>
+    </tr>
+</table>
+
+</div>
 
 ### 🌐 Conectemos:
 
