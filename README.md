@@ -54,7 +54,6 @@
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
             <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
             <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-            <img src="https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
             <img src="https://img.shields.io/badge/XGBoost-EB5B46?style=for-the-badge&logo=xgboost&logoColor=white"/>
             <img src="https://img.shields.io/badge/LightGBM-5C2D91?style=for-the-badge&logo=lightgbm&logoColor=white"/>
             <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -67,7 +66,6 @@
         <td style="padding: 12px; font-weight: bold;">🗄️ Database</td>
         <td style="padding: 12px;">
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
             <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
         </td>
@@ -206,10 +204,20 @@
 
 </div>
 
-### 🌐 Conectemos:
+### 🌐 ¡Conectemos!
 
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25uNzd3YWV1cGhzeHBpdDR2bW14cGp2dXhzOWl5cHIyNXF4czdqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="250" />
+    </td>
+    <td width="50%" align="left">
+     
 **Profesional:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/licette32)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beverly.jlgc@gmail.com)
 
 **Social / Contacto:**  
-[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/LicetteGC)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/licettegc)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beverly.jlgc@gmail.com)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LicetteGC) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/licettegc) 
+    </td>
+  </tr>
+</table>
