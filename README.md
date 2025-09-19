@@ -9,7 +9,7 @@
 
 💻 Soy **Técnica Superior en Ciencia de Datos e Inteligencia Artificial**, y en Gestión y Mantenimiento de Equipamiento Biomédico.  
 
-🎓 Actualmente estudio **Licenciatura en Administración y Gestión de la Información** y con 3 años de Lic. en Física Médica.  
+🎓 Actualmente estudio **Licenciatura en Administración y Gestión de la Información** y Física Médica.  
 
 🌱 Explorando **desarrollo full stack** (back-end) y transición de **Web2 a Web3**.  
 
