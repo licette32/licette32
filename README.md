@@ -214,7 +214,7 @@
     <td width="50%" align="left">
      
 **Profesional:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beverly.jlgc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beverly-j-l-gonzalez-c) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beverly.jlgc@gmail.com)
 
 **Social / Contacto:**  
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LicetteGC) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/licettegc) 
