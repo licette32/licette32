@@ -1,10 +1,13 @@
-## Hi there 👋
+## ⚛️ Bienvenid@ a mi espacio
 
-![Banner Beverly](banner_bev.png)
+<p align="center">
+  <img src="banner_bev.png" alt="Banner Beverly" width="70%">
+</p>
+
 
 
 ## 📖 About me
- 
+
 🎶 Aficionada del metal sinfónico y la vida en el campo 🌿  
 
 💻 Soy **Técnica Superior en Ciencia de Datos e Inteligencia Artificial**, y Téc. Sup. en Gestión y Mantenimiento de Equipamiento Biomédico.  
@@ -117,7 +120,7 @@
         <td style="padding: 12px; font-weight: bold;">🧪 Testing</td>
         <td style="padding: 12px;">
             <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
         </td>
     </tr>
 </table>
@@ -207,10 +210,31 @@
 
 </div>
 
-### 🌐 Conectemos:
+## 🌐 Conectemos
 
-**Profesional:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/licette32)
-
-**Social / Contacto:**  
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LicetteGC)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/licettegc)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beverly.jlgc@gmail.com)
+<table>
+  <tr>
+      <!-- Columna izq: GIF -->
+    <td align="center" width="35%">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVkNnYwdXJubmZsOGQ2bGg2djgyZmV5azh3bmZ5MXJsN3BmaGU4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UoLt6Tm8wlSnWGfSFs/giphy.gif" 
+           alt="Discord Gif" width="200"/>
+    </td>
+    <!-- Columna der: enlaces -->
+    <td align="left" width="65%">
+      <p><b>💼 Profesional</b></p>
+      <ul>
+          <a href="https://www.linkedin.com/in/beverly-j-l-gonzalez-c">
+            <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          </a>
+      </ul> 
+      <p><b>🤝 Social / Contacto</b></p>
+      <ul>
+          <a href="https://x.com/LicetteGC">
+            <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+          </a><a href="https://discord.gg/licettegc">
+            <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+          </a>
+      </ul>
+    </td>
+  </tr>
+</table>
