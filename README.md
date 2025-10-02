@@ -1,29 +1,27 @@
-## ⚛️ Bienvenid@ a mi espacio
+<div align="center">
+    <h1 style="color:#BF0454; display: flex; justify-content: center; align-items: center; gap: 10px;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdpY29tcW1hNTdtNzJwajAxbGN5NmtscTZ3cTY0ajA3ZXV2MW16ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4Fks72qQUvOWUaXcyn/giphy.gif" width="40" height="40"> 
+        ¡GM! Soy Beverly.
+    </h1>
+</div>
 
 <p align="center">
-  <img src="banner_bev.png" alt="Banner Beverly" width="70%">
+  <img src="banner-.gif" alt="Banner Beverly" width="80%" >
 </p>
 
 
-
-## 📖 About me
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRncGE4ZDRiOGdscWxqaXl5bzJmOTZzNG1tdHJ2MDk0Z3BtenZ3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AC8rAcwA4J3hDmJxrE/giphy.gif" width="40"> About me
 
 🎶 Aficionada del metal sinfónico y la vida en el campo 🌿  
 
-💻 Soy **Técnica Superior en Ciencia de Datos e Inteligencia Artificial**, y Téc. Sup. en Gestión y Mantenimiento de Equipamiento Biomédico.  
+💻 Soy **Técnica Sup. en Ciencia de Datos e IA**, y en Gestión y Mantenimiento de Eq. Biomédico.  
+🎓 Actualmente estudio **Lic. en Administración y Gestión de la Información** y cursé 3 años de Lic. en Física Médica.  
 
-🎓 Actualmente estudio **Licenciatura en Administración y Gestión de la Información** y cursé 3 años de Lic. en Física Médica.  
-
-🌱 Ampliando mis habilidades en **desarrollo full stack** (especialmente back-end), explorando la transición de **Web2 a Web3**.  
-
+🌱 Ampliando mis habilidades en **desarrollo full stack** (back-end), explorando la transición de **Web2 a Web3**.  
 🔬 Mi principal interés es la intersección entre IA, salud y sistemas de información.  
 
-🔭 Para aplicar mis conocimientos, desarrollo proyectos personales de ciencia de datos, IA y desarrollo web para mi portfolio.  
-
 🤝 Contribución y formación:
-
 * Busco contribuir a proyectos open source de ciencia de datos y desarrollo web que resuelvan problemas del mundo real.
-
 * Participo activamente en el bootcamp Digitalers de Inteligencia Artificial y en Dev3Pack.
 
 
@@ -61,8 +59,8 @@
             <img src="https://img.shields.io/badge/XGBoost-EB5B46?style=for-the-badge&logo=xgboost&logoColor=white"/>
             <img src="https://img.shields.io/badge/LightGBM-5C2D91?style=for-the-badge&logo=lightgbm&logoColor=white"/>
             <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-            <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=white"/>
+            <!--<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white"/>
+            <img src="https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=white"/>-->
         </td>
     </tr>
     <!-- Database -->
@@ -120,14 +118,16 @@
         <td style="padding: 12px; font-weight: bold;">🧪 Testing</td>
         <td style="padding: 12px;">
             <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
         </td>
     </tr>
 </table>
 </div>
 
 
-## 🌟 Proyectos Destacados
+
+<details>
+<summary> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms4djVlN2QxOGMwd25hMnlpaXc0YTJ3emo5YXQzOHFoc2djYzN3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1wBlKJw6fNjRYdaRlL/giphy.gif" width="100"> Proyectos Destacados </summary>
 
 <div align="center">
   <table style="border-collapse: separate; border-spacing: 15px; width: 100%;">
@@ -171,6 +171,9 @@
     </tr>
   </table>
 </div>
+</details>
+
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
@@ -183,7 +186,9 @@
         <img src="https://github-readme-stats.vercel.app/api?username=licette32&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licette32&layout=donut-vertical&theme=aura&hide_border=true" height="250"/>
+        <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licette32&layout=donut&theme=synthwave&hide_border=true&bg_color=00000000" alt="Top Lenguajes de licette32"/>
+</p>
     </td>
 </tr>
 </table>
@@ -200,17 +205,22 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=licette32&theme=radical" height="200"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=licette32&theme=transparent" height="200"/>
         </td>
         <td>
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=licette32&theme=radical" height="200"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=licette32&theme=transparent" height="200"/>
         </td>
     </tr>
 </table>
 
+
 </div>
 
+
+
 ## 🌐 Conectemos
+
+<div align="center">
 
 <table>
   <tr>
@@ -231,10 +241,12 @@
       <ul>
           <a href="https://x.com/LicetteGC">
             <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-          </a><a href="https://discord.gg/licettegc">
+          </a>
+          <a href="https://discord.gg/licettegc">
             <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
           </a>
       </ul>
     </td>
   </tr>
 </table>
+
