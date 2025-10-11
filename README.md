@@ -95,14 +95,14 @@
             <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
         </td>
     </tr>
-    <!-- Blockchain -->
+    <!-- Blockchain
     <tr>
         <td style="padding: 12px; font-weight: bold;">⛓️ Blockchain & Web3</td>
         <td style="padding: 12px;">
             <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
             <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
         </td>
-    </tr>
+    </tr> -->
     <!-- DevOps -->
     <tr>
         <td style="padding: 12px; font-weight: bold;">☁️ DevOps & Cloud</td>
