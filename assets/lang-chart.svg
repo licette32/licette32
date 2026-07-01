@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-07-01T19:22:24.208596</dc:date>
+    <dc:date>2026-07-01T19:24:31.855455</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -78,7 +78,7 @@ C 58.190453 79.163885 54.26496 88.640865 54.26496 98.521187
 C 54.26496 108.401509 58.190453 117.878488 65.176896 124.864931 
 C 72.163339 131.851373 81.640318 135.776867 91.52064 135.776867 
 z
-" clip-path="url(#p7e65fc65b1)" style="fill: #0b1120; stroke: #0b1120; stroke-width: 2; stroke-linejoin: miter"/>
+" clip-path="url(#p2faab30622)" style="fill: #0b1120; stroke: #0b1120; stroke-width: 2; stroke-linejoin: miter"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
@@ -1038,7 +1038,7 @@ C 233.353021 29.838299 232.646202 31.54471 232.646202 33.323747
 C 232.646202 35.102783 233.353021 36.809195 234.61099 38.067163 
 C 235.868959 39.325132 237.57537 40.031951 239.354406 40.031951 
 z
-" clip-path="url(#pce6996fe93)" style="fill: #ff79c6"/>
+" clip-path="url(#p1925320426)" style="fill: #ff79c6"/>
    </g>
    <g id="PathCollection_2">
     <path d="M 239.354406 58.659791 
@@ -1051,7 +1051,7 @@ C 233.353021 48.466139 232.646202 50.17255 232.646202 51.951587
 C 232.646202 53.730623 233.353021 55.437035 234.61099 56.695003 
 C 235.868959 57.952972 237.57537 58.659791 239.354406 58.659791 
 z
-" clip-path="url(#pce6996fe93)" style="fill: #50fa7b"/>
+" clip-path="url(#p1925320426)" style="fill: #50fa7b"/>
    </g>
    <g id="PathCollection_3">
     <path d="M 239.354406 77.287631 
@@ -1064,15 +1064,15 @@ C 233.353021 67.093979 232.646202 68.80039 232.646202 70.579427
 C 232.646202 72.358463 233.353021 74.064875 234.61099 75.322843 
 C 235.868959 76.580812 237.57537 77.287631 239.354406 77.287631 
 z
-" clip-path="url(#pce6996fe93)" style="fill: #8be9fd"/>
+" clip-path="url(#p1925320426)" style="fill: #8be9fd"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p7e65fc65b1">
+  <clipPath id="p2faab30622">
    <rect x="10.8" y="20.905187" width="161.44128" height="155.232"/>
   </clipPath>
-  <clipPath id="pce6996fe93">
+  <clipPath id="p1925320426">
    <rect x="228.725835" y="20.905187" width="212.571429" height="155.232"/>
   </clipPath>
  </defs>
