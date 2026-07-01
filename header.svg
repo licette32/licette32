@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1e293b" stroke-width="0.3"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="#020617"/>
+  <rect width="800" height="200" fill="url(#grid)" opacity="0.35"/>
+
+  <!-- Border hairlines -->
+  <line x1="0" y1="0" x2="800" y2="0" stroke="#1e293b" stroke-width="0.5"/>
+  <line x1="0" y1="199" x2="800" y2="199" stroke="#1e293b" stroke-width="0.5"/>
+  <line x1="0" y1="0" x2="0" y2="200" stroke="#1e293b" stroke-width="0.5"/>
+  <line x1="799" y1="0" x2="799" y2="200" stroke="#1e293b" stroke-width="0.5"/>
+
+  <!-- ============================================================ -->
+  <!-- FORMULAS — Physics, Math, Statistics, ML                    -->
+  <!-- ============================================================ -->
+  <g opacity="0.09" fill="#94a3b8" font-family="'SF Mono','SFMono-Regular','JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="11">
+
+    <!-- Physics — top left -->
+    <text x="40" y="22">E = mc²</text>
+    <text x="35" y="38">F = ma</text>
+    <text x="200" y="18">∇·E = ρ/ε₀</text>
+
+    <!-- Physics symbols — scattered -->
+    <text x="160" y="42" font-size="14">λ</text>
+    <text x="195" y="28" font-size="14">Δ</text>
+    <text x="225" y="42" font-size="14">∂</text>
+
+    <!-- Math — top right -->
+    <text x="580" y="20" font-size="14">∫</text>
+    <text x="625" y="24" font-size="14">Σ</text>
+    <text x="570" y="38">A⁻¹</text>
+    <text x="615" y="38">Ax = b</text>
+    <text x="530" y="42">arg max</text>
+    <text x="605" y="42">‖x‖₂</text>
+    <text x="655" y="42">O(n log n)</text>
+
+    <!-- Statistics — left -->
+    <text x="40" y="170">μ σ²</text>
+    <text x="40" y="185">E[X] Var(X)</text>
+    <text x="40" y="196">ŷ = Xβ</text>
+
+    <!-- Statistics — right -->
+    <text x="650" y="170">H(X)</text>
+    <text x="635" y="185">P(A|B)</text>
+    <text x="635" y="196">P(Y|X)</text>
+
+    <!-- ML — bottom center -->
+    <text x="310" y="174">∇J(θ)</text>
+    <text x="370" y="174">θ</text>
+    <text x="310" y="186">Loss Gradient</text>
+    <text x="310" y="196">Q-learning</text>
+
+    <!-- ML system dynamics -->
+    <text x="455" y="186" font-size="11">x<tspan dy="3.5" font-size="8">k+1</tspan><tspan dy="-3.5" font-size="11"> = f(x, u)</tspan></text>
+  </g>
+
+  <!-- ============================================================ -->
+  <!-- GRAPHICAL ELEMENTS — Axes, curves, nodes, vectors           -->
+  <!-- ============================================================ -->
+
+  <!-- Cartesian axes — bottom left -->
+  <g opacity="0.1" stroke="#94a3b8" stroke-width="0.7" fill="none">
+    <line x1="40" y1="192" x2="130" y2="192"/>
+    <line x1="60" y1="170" x2="60" y2="196"/>
+    <line x1="60" y1="192" x2="60" y2="189"/>
+    <line x1="78" y1="192" x2="78" y2="189"/>
+    <line x1="96" y1="192" x2="96" y2="189"/>
+    <line x1="114" y1="192" x2="114" y2="189"/>
+  </g>
+
+  <!-- Normal distribution — center bottom -->
+  <path d="M 280,192 C 300,192 320,184 340,174 C 360,166 380,162 400,160 C 420,158 440,158 460,160 C 480,162 500,166 520,174 C 540,184 560,192 580,192" fill="none" stroke="#3b82f6" stroke-width="0.8" opacity="0.12"/>
+
+  <!-- Logistic (sigmoid) curve — right -->
+  <path d="M 580,190 C 610,190 630,190 645,182 C 660,174 675,168 690,164 C 705,160 715,158 725,158" fill="none" stroke="#22c55e" stroke-width="0.8" opacity="0.1"/>
+
+  <!-- Time series — bottom right -->
+  <path d="M 620,192 Q 635,178 650,192 T 680,192 T 710,192 T 740,192" fill="none" stroke="#f97316" stroke-width="0.6" opacity="0.1"/>
+
+  <!-- Network nodes — center-right -->
+  <g opacity="0.06">
+    <circle cx="480" cy="90" r="3" fill="#3b82f6"/>
+    <circle cx="510" cy="105" r="3" fill="#8b5cf6"/>
+    <circle cx="530" cy="85" r="3" fill="#22c55e"/>
+    <circle cx="560" cy="100" r="3" fill="#f97316"/>
+
+    <line x1="483" y1="90" x2="507" y2="105" stroke="#3b82f6" stroke-width="0.5"/>
+    <line x1="513" y1="105" x2="527" y2="85" stroke="#8b5cf6" stroke-width="0.5"/>
+    <line x1="533" y1="85" x2="557" y2="100" stroke="#22c55e" stroke-width="0.5"/>
+  </g>
+
+  <!-- Construction line — subtle horizontal reference -->
+  <line x1="40" y1="162" x2="760" y2="162" stroke="#1e293b" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- ============================================================ -->
+  <!-- MAIN CONTENT                                                  -->
+  <!-- ============================================================ -->
+
+  <!-- Name -->
+  <text x="400" y="75" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="44" font-weight="600" fill="#f8fafc" letter-spacing="6">
+    BEVERLY
+  </text>
+
+  <!-- Areas with colored bullets -->
+  <text x="400" y="115" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#f8fafc" letter-spacing="3">
+    <tspan fill="#3b82f6">●</tspan>
+    <tspan> Data </tspan>
+    <tspan fill="#22c55e">●</tspan>
+    <tspan> Backend </tspan>
+    <tspan fill="#f97316">●</tspan>
+    <tspan> Machine Learning </tspan>
+    <tspan fill="#8b5cf6">●</tspan>
+    <tspan> Distributed Systems</tspan>
+  </text>
+
+  <!-- Quote -->
+  <text x="400" y="155" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#94a3b8" font-style="italic" font-weight="300" letter-spacing="0.5">
+    "La física me enseñó a modelar antes de implementar."
+  </text>
+</svg>

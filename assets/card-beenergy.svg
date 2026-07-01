@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="160" viewBox="0 0 430 160">
+  <rect x="0" y="0" width="430" height="160" rx="10" fill="#0b1120"/>
+  <rect x="0" y="0" width="430" height="3" rx="1.5" fill="#8b5cf6"/>
+  <text x="20" y="30" font-family="'Courier New', monospace" font-size="14" fill="#e2e8f0" font-weight="bold">BEENERGY</text>
+  <text x="20" y="48" font-family="'Courier New', monospace" font-size="10" fill="#8b5cf6" letter-spacing="1">Tokenization &amp; Sustainability</text>
+  <text x="20" y="72" font-family="'Courier New', monospace" font-size="11" fill="#94a3b8">Plataforma descentralizada para gestión,</text>
+  <text x="20" y="88" font-family="'Courier New', monospace" font-size="11" fill="#94a3b8">tokenización y certificación de energía renovable.</text>
+  <rect x="20" y="110" width="65" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="52.5" y="123" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#a78bfa">Stellar</text>
+  <rect x="93" y="110" width="100" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="143" y="123" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#a78bfa">Tokenization</text>
+  <rect x="201" y="110" width="128" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="265" y="123" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#a78bfa">Sustainability</text>
+</svg>

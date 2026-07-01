@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="160" viewBox="0 0 430 160">
+  <rect x="0" y="0" width="430" height="160" rx="10" fill="#0b1120"/>
+  <rect x="0" y="0" width="430" height="3" rx="1.5" fill="#8b5cf6"/>
+  <text x="20" y="30" font-family="'Courier New', monospace" font-size="14" fill="#e2e8f0" font-weight="bold">MEDOVANT PROTOCOL</text>
+  <text x="20" y="48" font-family="'Courier New', monospace" font-size="10" fill="#8b5cf6" letter-spacing="1">Distributed Systems &amp; Web3 [INCUBADORA]</text>
+  <text x="20" y="72" font-family="'Courier New', monospace" font-size="11" fill="#94a3b8">Protocolo descentralizado de trazabilidad</text>
+  <text x="20" y="88" font-family="'Courier New', monospace" font-size="11" fill="#94a3b8">inmutable y custodia escrow sobre Solana.</text>
+  <rect x="20" y="110" width="58" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="49" y="123" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#a78bfa">Solana</text>
+  <rect x="86" y="110" width="44" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="108" y="123" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#a78bfa">Rust</text>
+  <rect x="138" y="110" width="58" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="167" y="123" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#a78bfa">Escrow</text>
+  <rect x="204" y="110" width="121" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="264.5" y="123" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#a78bfa">Protocol Design</text>
+</svg>

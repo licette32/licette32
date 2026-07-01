@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="120" viewBox="0 0 420 120">
+  <rect x="0" y="0" width="420" height="120" rx="10" fill="#0b1120"/>
+  <rect x="0" y="0" width="3" height="120" rx="1.5" fill="#3b82f6"/>
+  <text x="20" y="28" font-family="'Courier New', monospace" font-size="10" fill="#3b82f6" font-weight="700" letter-spacing="2">DATA SCIENCE &amp; ANALYSIS</text>
+  <line x1="20" y1="36" x2="400" y2="36" stroke="#3b82f6" stroke-width="0.5" opacity="0.4"/>
+
+  <rect x="20" y="52" width="62" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="51" y="65" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#60a5fa">Python</text>
+
+  <rect x="90" y="52" width="62" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="121" y="65" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#60a5fa">Pandas</text>
+
+  <rect x="160" y="52" width="55" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="187.5" y="65" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#60a5fa">NumPy</text>
+
+  <rect x="223" y="52" width="90" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="268" y="65" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#60a5fa">Matplotlib</text>
+
+  <rect x="321" y="52" width="62" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="352" y="65" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#60a5fa">Plotly</text>
+
+  <rect x="20" y="80" width="55" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="47.5" y="93" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#60a5fa">SciPy</text>
+
+  <rect x="83" y="80" width="41" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="103.5" y="93" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#60a5fa">SQL</text>
+</svg>
