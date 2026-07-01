@@ -81,9 +81,9 @@ Contribuyo de forma activa en el desarrollo de infraestructura, optimización de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=licette32&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+<img src="assets/stats-card.svg" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=licette32&layout=compact&theme=aura_dark&hide_border=true" height="160"/>
+<img src="assets/lang-chart.svg" height="160"/>
 
 </div>
 
