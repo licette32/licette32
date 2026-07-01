@@ -57,22 +57,26 @@ def compute_stats(g):
         result['stars'] = result['repos'] = '—'
 
     try:
-        result['prs'] = format_number(g.search_issues(f'author:{USERNAME} type:pr').totalCount)
+        raw_prs = g.search_issues(f'author:{USERNAME} type:pr').totalCount
+        result['prs'] = format_number(raw_prs)
+        result['raw_prs'] = raw_prs
     except Exception as e:
         print(f'::warning ::prs: {e}')
         result['prs'] = '—'
 
     try:
-        result['issues'] = format_number(g.search_issues(f'author:{USERNAME} type:issue').totalCount)
+        raw_issues = g.search_issues(f'author:{USERNAME} type:issue').totalCount
+        result['issues'] = format_number(raw_issues)
+        result['raw_issues'] = raw_issues
     except Exception as e:
         print(f'::warning ::issues: {e}')
         result['issues'] = '—'
 
     try:
         since = (datetime.utcnow() - timedelta(days=365)).strftime('%Y-%m-%d')
-        result['commits'] = format_number(
-            g.search_commits(f'author:{USERNAME} committer-date:>={since}').totalCount
-        )
+        raw_commits = g.search_commits(f'author:{USERNAME} committer-date:>={since}').totalCount
+        result['commits'] = format_number(raw_commits)
+        result['raw_commits'] = raw_commits
     except Exception as e:
         print(f'::warning ::commits: {e}')
         result['commits'] = '—'
@@ -126,12 +130,20 @@ def prune_languages(lang_bytes, max_items=7):
 # ── SVG: Stats card ────────────────────────────────────────────────────────
 
 def make_stats_card(stats):
+    rank = calculate_rank(stats)
+    grade = rank['level']
+    percentile = rank['percentile']
+    grade_color = GRADE_COLORS.get(grade, '#60a5fa')
+    # Circle: circumference = 2*pi*50 ≈ 314.16
+    # fill = (100 - percentile) / 100 * 314.16
+    circ = 314.16
+    fill_len = round((100 - percentile) / 100 * circ, 1)
+    gap_len  = round(circ - fill_len, 1)
     W, H = 420, 200
     BG   = '#0b1120'
     BLUE = '#60a5fa'
     MUTED = '#94a3b8'
     TEXT  = '#e2e8f0'
-    GREEN = '#22c55e'
 
     year = stats['year']
 
@@ -168,11 +180,14 @@ def make_stats_card(stats):
   <!-- Metric rows -->
   {''.join(row_svgs)}
 
-  <!-- Right side: GitHub-style silhouette (two circles) -->
-  <!-- Body -->
-  <circle cx="370" cy="118" r="42" fill="{GREEN}" opacity="0.85"/>
-  <!-- Head -->
-  <circle cx="370" cy="62"  r="22" fill="{GREEN}" opacity="0.85"/>
+  <!-- Grade circle -->
+  <circle cx="370" cy="100" r="50" fill="none" stroke="#1e293b" stroke-width="6"/>
+  <circle cx="370" cy="100" r="50" fill="none" stroke="{grade_color}" stroke-width="6"
+          stroke-dasharray="{fill_len} {gap_len}"
+          stroke-dashoffset="78.5"
+          stroke-linecap="round"/>
+  <text x="370" y="95" font-family="monospace" font-size="20" font-weight="bold" fill="{grade_color}" text-anchor="middle" dominant-baseline="middle">{grade}</text>
+  <text x="370" y="118" font-family="monospace" font-size="9" fill="{MUTED}" text-anchor="middle">grade</text>
 
   <!-- Footer -->
   <text x="{W-16}" y="{H-10}" font-family="monospace" font-size="9" fill="{MUTED}" text-anchor="end">Updated {esc(stats["updated"])}</text>
@@ -192,23 +207,21 @@ def make_donut_chart(lang_bytes, total_repos):
         print('::warning ::No language data after pruning.')
         return
 
-    W, H   = 480, 220
+    W, H   = 480, 250
     BG     = '#0b1120'
-    CARD   = '#121826'
     BLUE   = '#60a5fa'
     MUTED  = '#94a3b8'
     TEXT   = '#e2e8f0'
 
-    cx, cy = 115, 110   # donut center
+    cx, cy = 115, 148   # donut center (lower to make room for title)
     R_out  = 85
-    R_in   = 47         # hole
+    R_in   = 47
 
     labels = list(data.keys())
     sizes  = list(data.values())
     total  = sum(sizes)
     colors = COLORS[:len(labels)]
 
-    # ── Compute wedge paths ────────────────────────────────────────────────
     def polar(angle, r):
         rad = math.radians(angle - 90)
         return cx + r * math.cos(rad), cy + r * math.sin(rad)
@@ -219,53 +232,45 @@ def make_donut_chart(lang_bytes, total_repos):
         sweep = size / total * 360
         large = 1 if sweep > 180 else 0
         a1, a2 = angle, angle + sweep
-
         x1o, y1o = polar(a1, R_out)
         x2o, y2o = polar(a2, R_out)
         x1i, y1i = polar(a2, R_in)
         x2i, y2i = polar(a1, R_in)
-
         d = (f'M {x1o:.2f} {y1o:.2f} '
              f'A {R_out} {R_out} 0 {large} 1 {x2o:.2f} {y2o:.2f} '
              f'L {x1i:.2f} {y1i:.2f} '
              f'A {R_in} {R_in} 0 {large} 0 {x2i:.2f} {y2i:.2f} Z')
-
         wedge_svgs.append(f'  <path d="{d}" fill="{colors[i]}" stroke="{BG}" stroke-width="2"/>')
         angle += sweep
 
-    # ── Legend ────────────────────────────────────────────────────────────
     legend_svgs = []
     lx = 220
-    ly_start = 28
-    row_h = (H - 50) / max(len(labels), 1)
+    ly_start = 58
+    row_h = (H - 78) / max(len(labels), 1)
 
     for i, (lang, count) in enumerate(data.items()):
         ly = ly_start + i * row_h
         pct = count / total * 100
-        legend_svgs.append(f'''
-  <circle cx="{lx + 6}" cy="{ly + 6}" r="5" fill="{colors[i]}"/>
-  <text x="{lx + 16}" y="{ly + 6}" font-family="monospace" font-size="11" fill="{TEXT}" dominant-baseline="middle">{esc(lang)}</text>
-  <text x="{W - 16}"  y="{ly + 6}" font-family="monospace" font-size="11" fill="{BLUE}" font-weight="bold" text-anchor="end" dominant-baseline="middle">{pct:.1f}%</text>''')
+        legend_svgs.append(
+            f'  <circle cx="{lx + 6}" cy="{ly + 6}" r="5" fill="{colors[i]}"/>\n'
+            f'  <text x="{lx + 16}" y="{ly + 6}" font-family="monospace" font-size="11" fill="{TEXT}" dominant-baseline="middle">{esc(lang)}</text>\n'
+            f'  <text x="{W - 16}" y="{ly + 6}" font-family="monospace" font-size="11" fill="{BLUE}" font-weight="bold" text-anchor="end" dominant-baseline="middle">{pct:.1f}%</text>'
+        )
 
-    svg = f'''<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg">
-  <rect width="{W}" height="{H}" fill="{BG}" rx="10"/>
+    wedge_block  = '\n'.join(wedge_svgs)
+    legend_block = '\n'.join(legend_svgs)
 
-  <!-- Donut wedges -->
-  {''.join(wedge_svgs)}
-
-  <!-- Hole fill -->
-  <circle cx="{cx}" cy="{cy}" r="{R_in - 2}" fill="{BG}"/>
-
-  <!-- Center text -->
-  <text x="{cx}" y="{cy - 8}"  font-family="monospace" font-size="20" font-weight="bold" fill="{BLUE}"  text-anchor="middle">{total_repos}</text>
-  <text x="{cx}" y="{cy + 14}" font-family="monospace" font-size="10"                    fill="{MUTED}" text-anchor="middle">repos</text>
-
-  <!-- Vertical divider -->
-  <line x1="205" y1="18" x2="205" y2="{H - 18}" stroke="{MUTED}" stroke-width="0.4" opacity="0.3"/>
-
-  <!-- Legend -->
-  {''.join(legend_svgs)}
-</svg>'''
+    svg = (
+        f'<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" xmlns="http://www.w3.org/2000/svg">\n'
+        f'  <rect width="{W}" height="{H}" fill="{BG}" rx="10"/>\n'
+        f'  <text x="22" y="28" font-family="monospace" font-size="13" font-weight="bold" fill="{BLUE}">Top Languages by Repo</text>\n'
+        f'  <line x1="22" y1="40" x2="{W-22}" y2="40" stroke="{BLUE}" stroke-width="0.5" opacity="0.25"/>\n'
+        f'{wedge_block}\n'
+        f'  <circle cx="{cx}" cy="{cy}" r="{R_in - 2}" fill="{BG}"/>\n'
+        f'  <line x1="205" y1="48" x2="205" y2="{H - 16}" stroke="{MUTED}" stroke-width="0.4" opacity="0.3"/>\n'
+        f'{legend_block}\n'
+        f'</svg>'
+    )
 
     os.makedirs(os.path.dirname(LANG_OUTPUT) or '.', exist_ok=True)
     with open(LANG_OUTPUT, 'w', encoding='utf-8') as f:
