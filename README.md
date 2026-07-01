@@ -79,11 +79,12 @@ Contribuyo de forma activa en el desarrollo de infraestructura, optimización de
 
 ### Stats
 
+
 <div align="center">
 
-<img src="assets/stats-card.svg" height="160"/>
+<img src="assets/stats-card.svg" width="48%" alt="GitHub Statistics"/>
 &nbsp;&nbsp;
-<img src="assets/lang-chart.svg" height="160"/>
+<img src="assets/lang-chart.svg" width="48%" alt="Language Distribution"/>
 
 </div>
 
