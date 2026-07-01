@@ -1,30 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="180" viewBox="0 0 450 180">
-  <rect x="0" y="0" width="450" height="180" rx="18" fill="#0b1120"/>
-  <rect x="0" y="0" width="3" height="180" rx="1.5" fill="#3b82f6"/>
-  <text x="20" y="38" font-family="'Courier New', monospace" font-size="18" fill="#3b82f6" font-weight="700" letter-spacing="2">DATA SCIENCE &amp; ANALYSIS</text>
-  <line x1="20" y1="46" x2="430" y2="46" stroke="#3b82f6" stroke-width="0.5" opacity="0.4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="204" viewBox="0 0 240 204">
+  <rect x="0" y="0" width="240" height="204" rx="18" fill="#0b1120"/>
+  <rect x="0" y="0" width="3" height="204" rx="1.5" fill="#3b82f6"/>
+  <text x="16" y="38" font-family="'Courier New', monospace" font-size="18" fill="#3b82f6" font-weight="700" letter-spacing="2">DATA SCIENCE</text>
+  <text x="16" y="56" font-family="'Courier New', monospace" font-size="18" fill="#3b82f6" font-weight="700" letter-spacing="2">&amp; ENGINEERING</text>
+  <line x1="16" y1="66" x2="224" y2="66" stroke="#3b82f6" stroke-width="0.5" opacity="0.4"/>
 
-  <rect x="20" y="56" width="68" height="28" rx="4" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
-  <text x="54" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">Python</text>
+  <rect x="16" y="76" width="108" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="70" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">Python</text>
 
-  <rect x="96" y="56" width="68" height="28" rx="4" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
-  <text x="130" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">Pandas</text>
+  <rect x="132" y="76" width="108" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="186" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">Pandas</text>
 
-  <rect x="172" y="56" width="60" height="28" rx="4" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
-  <text x="202" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">NumPy</text>
+  <rect x="16" y="104" width="108" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="70" y="118" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">NumPy</text>
 
-  <rect x="20" y="92" width="60" height="28" rx="4" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
-  <text x="50" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">SciPy</text>
+  <rect x="132" y="104" width="108" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="186" y="118" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">SciPy</text>
 
-  <rect x="88" y="92" width="154" height="28" rx="4" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
-  <text x="165" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">Feature Engineering</text>
+  <rect x="16" y="132" width="108" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="70" y="146" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">SQL</text>
 
-  <rect x="250" y="92" width="161" height="28" rx="4" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
-  <text x="330.5" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">Statistical Analysis</text>
+  <rect x="132" y="132" width="108" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="186" y="146" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">GeoPandas</text>
 
-  <rect x="20" y="128" width="125" height="28" rx="4" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
-  <text x="82.5" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">Data Pipelines</text>
-
-  <rect x="153" y="128" width="48" height="28" rx="4" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
-  <text x="177" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">EDA</text>
+  <rect x="16" y="160" width="108" height="20" rx="3" fill="#1e3a5f" stroke="#3b82f6" stroke-width="0.8"/>
+  <text x="70" y="174" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#60a5fa">PySpark</text>
 </svg>

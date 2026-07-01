@@ -1,27 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="180" viewBox="0 0 450 180">
-  <rect x="0" y="0" width="450" height="180" rx="18" fill="#0b1120"/>
-  <rect x="0" y="0" width="3" height="180" rx="1.5" fill="#8b5cf6"/>
-  <text x="20" y="38" font-family="'Courier New', monospace" font-size="18" fill="#8b5cf6" font-weight="700" letter-spacing="2">DISTRIBUTED SYSTEMS &amp; WEB3</text>
-  <line x1="20" y1="46" x2="430" y2="46" stroke="#8b5cf6" stroke-width="0.5" opacity="0.4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="176" viewBox="0 0 240 176">
+  <rect x="0" y="0" width="240" height="176" rx="18" fill="#0b1120"/>
+  <rect x="0" y="0" width="3" height="176" rx="1.5" fill="#8b5cf6"/>
+  <text x="16" y="38" font-family="'Courier New', monospace" font-size="18" fill="#8b5cf6" font-weight="700" letter-spacing="2">BLOCKCHAIN</text>
+  <text x="16" y="56" font-family="'Courier New', monospace" font-size="18" fill="#8b5cf6" font-weight="700" letter-spacing="2">&amp; PROTOCOLS</text>
+  <line x1="16" y1="66" x2="224" y2="66" stroke="#8b5cf6" stroke-width="0.5" opacity="0.4"/>
 
-  <rect x="20" y="56" width="53" height="28" rx="4" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
-  <text x="46.5" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Rust</text>
+  <rect x="16" y="76" width="108" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="70" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Rust</text>
 
-  <rect x="81" y="56" width="74" height="28" rx="4" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
-  <text x="118" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Soroban</text>
+  <rect x="132" y="76" width="108" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="186" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Stellar</text>
 
-  <rect x="163" y="56" width="74" height="28" rx="4" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
-  <text x="200" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Stellar</text>
+  <rect x="16" y="104" width="108" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="70" y="118" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Soroban</text>
 
-  <rect x="245" y="56" width="68" height="28" rx="4" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
-  <text x="279" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Solana</text>
+  <rect x="132" y="104" width="108" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="186" y="118" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Solana</text>
 
-  <rect x="20" y="92" width="132" height="28" rx="4" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
-  <text x="86" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Smart Contracts</text>
+  <rect x="16" y="132" width="108" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="70" y="146" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Smart Contracts</text>
 
-  <rect x="160" y="92" width="125" height="28" rx="4" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
-  <text x="222.5" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Protocol Design</text>
-
-  <rect x="134" y="128" width="182" height="28" rx="4" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
-  <text x="225" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Zero-Knowledge Proofs</text>
+  <rect x="132" y="132" width="108" height="20" rx="3" fill="#2e1065" stroke="#8b5cf6" stroke-width="0.8"/>
+  <text x="186" y="146" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa">Protocol Design</text>
 </svg>

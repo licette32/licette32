@@ -1,27 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="450" height="180" viewBox="0 0 450 180">
-  <rect x="0" y="0" width="450" height="180" rx="18" fill="#0b1120"/>
-  <rect x="0" y="0" width="3" height="180" rx="1.5" fill="#6366f1"/>
-  <text x="20" y="38" font-family="'Courier New', monospace" font-size="18" fill="#6366f1" font-weight="700" letter-spacing="2">BACKEND &amp; INFRASTRUCTURE</text>
-  <line x1="20" y1="46" x2="430" y2="46" stroke="#6366f1" stroke-width="0.5" opacity="0.4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="204" viewBox="0 0 240 204">
+  <rect x="0" y="0" width="240" height="204" rx="18" fill="#0b1120"/>
+  <rect x="0" y="0" width="3" height="204" rx="1.5" fill="#6366f1"/>
+  <text x="16" y="38" font-family="'Courier New', monospace" font-size="18" fill="#6366f1" font-weight="700" letter-spacing="2">BACKEND &amp;</text>
+  <text x="16" y="56" font-family="'Courier New', monospace" font-size="18" fill="#6366f1" font-weight="700" letter-spacing="2">INFRASTRUCTURE</text>
+  <line x1="16" y1="66" x2="224" y2="66" stroke="#6366f1" stroke-width="0.5" opacity="0.4"/>
 
-  <rect x="20" y="56" width="96" height="28" rx="4" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
-  <text x="68" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">TypeScript</text>
+  <rect x="16" y="76" width="108" height="20" rx="3" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
+  <text x="70" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">TypeScript</text>
 
-  <rect x="124" y="56" width="74" height="28" rx="4" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
-  <text x="161" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">Node.js</text>
+  <rect x="132" y="76" width="108" height="20" rx="3" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
+  <text x="186" y="90" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">Node.js</text>
 
-  <rect x="206" y="56" width="74" height="28" rx="4" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
-  <text x="243" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">Express</text>
+  <rect x="16" y="104" width="108" height="20" rx="3" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
+  <text x="70" y="118" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">FastAPI</text>
 
-  <rect x="288" y="56" width="89" height="28" rx="4" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
-  <text x="332.5" y="76" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">REST APIs</text>
+  <rect x="132" y="104" width="108" height="20" rx="3" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
+  <text x="186" y="118" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">Express</text>
 
-  <rect x="20" y="92" width="82" height="28" rx="4" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
-  <text x="61" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">Supabase</text>
+  <rect x="16" y="132" width="108" height="20" rx="3" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
+  <text x="70" y="146" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">Docker</text>
 
-  <rect x="110" y="92" width="68" height="28" rx="4" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
-  <text x="144" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">Docker</text>
+  <rect x="132" y="132" width="108" height="20" rx="3" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
+  <text x="186" y="146" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">Java</text>
 
-  <rect x="186" y="92" width="46" height="28" rx="4" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
-  <text x="209" y="112" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">Git</text>
+  <rect x="16" y="160" width="108" height="20" rx="3" fill="#1e1b4b" stroke="#6366f1" stroke-width="0.8"/>
+  <text x="70" y="174" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a5b4fc">Azure</text>
 </svg>
