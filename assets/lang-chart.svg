@@ -2,19 +2,19 @@
   <rect width="480" height="250" fill="#0b1120" rx="10"/>
   <text x="22" y="28" font-family="monospace" font-size="13" font-weight="bold" fill="#60a5fa">Top Languages by Repo</text>
   <line x1="22" y1="40" x2="458" y2="40" stroke="#60a5fa" stroke-width="0.5" opacity="0.25"/>
-  <path d="M 115.00 63.00 A 85 85 0 0 1 195.88 174.16 L 159.72 162.46 A 47 47 0 0 0 115.00 101.00 Z" fill="#38bdf8" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 195.88 174.16 A 85 85 0 0 1 75.24 223.13 L 93.01 189.54 A 47 47 0 0 0 159.72 162.46 Z" fill="#34d399" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 75.24 223.13 A 85 85 0 0 1 32.19 167.17 L 69.21 158.60 A 47 47 0 0 0 93.01 189.54 Z" fill="#a78bfa" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 32.19 167.17 A 85 85 0 0 1 45.31 99.33 L 76.47 121.09 A 47 47 0 0 0 69.21 158.60 Z" fill="#fbbf24" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 45.31 99.33 A 85 85 0 0 1 75.14 72.93 L 92.96 106.49 A 47 47 0 0 0 76.47 121.09 Z" fill="#f87171" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 75.14 72.93 A 85 85 0 0 1 89.19 67.01 L 100.73 103.22 A 47 47 0 0 0 92.96 106.49 Z" fill="#2dd4bf" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 89.19 67.01 A 85 85 0 0 1 95.73 65.21 L 104.34 102.22 A 47 47 0 0 0 100.73 103.22 Z" fill="#fb923c" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 95.73 65.21 A 85 85 0 0 1 115.00 63.00 L 115.00 101.00 A 47 47 0 0 0 104.34 102.22 Z" fill="#e879f9" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 115.00 63.00 A 85 85 0 0 1 195.93 173.98 L 159.75 162.36 A 47 47 0 0 0 115.00 101.00 Z" fill="#38bdf8" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 195.93 173.98 A 85 85 0 0 1 75.34 223.18 L 93.07 189.57 A 47 47 0 0 0 159.75 162.36 Z" fill="#34d399" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 75.34 223.18 A 85 85 0 0 1 32.21 167.25 L 69.22 158.64 A 47 47 0 0 0 93.07 189.57 Z" fill="#a78bfa" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 32.21 167.25 A 85 85 0 0 1 45.29 99.37 L 76.45 121.11 A 47 47 0 0 0 69.22 158.64 Z" fill="#fbbf24" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 45.29 99.37 A 85 85 0 0 1 75.12 72.94 L 92.95 106.49 A 47 47 0 0 0 76.45 121.11 Z" fill="#f87171" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 75.12 72.94 A 85 85 0 0 1 89.18 67.02 L 100.72 103.22 A 47 47 0 0 0 92.95 106.49 Z" fill="#2dd4bf" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 89.18 67.02 A 85 85 0 0 1 95.72 65.22 L 104.34 102.23 A 47 47 0 0 0 100.72 103.22 Z" fill="#fb923c" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 95.72 65.22 A 85 85 0 0 1 115.00 63.00 L 115.00 101.00 A 47 47 0 0 0 104.34 102.23 Z" fill="#e879f9" stroke="#0b1120" stroke-width="2"/>
   <circle cx="115" cy="148" r="45" fill="#0b1120"/>
   <line x1="205" y1="48" x2="205" y2="234" stroke="#94a3b8" stroke-width="0.4" opacity="0.3"/>
   <circle cx="226" cy="64.0" r="5" fill="#38bdf8"/>
   <text x="236" y="64.0" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">TypeScript</text>
-  <text x="464" y="64.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">30.0%</text>
+  <text x="464" y="64.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">29.9%</text>
   <circle cx="226" cy="85.5" r="5" fill="#34d399"/>
   <text x="236" y="85.5" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">Python</text>
   <text x="464" y="85.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">27.8%</text>
