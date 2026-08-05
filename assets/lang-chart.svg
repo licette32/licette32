@@ -2,14 +2,14 @@
   <rect width="480" height="250" fill="#0b1120" rx="10"/>
   <text x="22" y="28" font-family="monospace" font-size="13" font-weight="bold" fill="#60a5fa">Top Languages by Repo</text>
   <line x1="22" y1="40" x2="458" y2="40" stroke="#60a5fa" stroke-width="0.5" opacity="0.25"/>
-  <path d="M 115.00 63.00 A 85 85 0 0 1 195.93 173.98 L 159.75 162.36 A 47 47 0 0 0 115.00 101.00 Z" fill="#38bdf8" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 195.93 173.98 A 85 85 0 0 1 75.34 223.18 L 93.07 189.57 A 47 47 0 0 0 159.75 162.36 Z" fill="#34d399" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 75.34 223.18 A 85 85 0 0 1 32.21 167.25 L 69.22 158.64 A 47 47 0 0 0 93.07 189.57 Z" fill="#a78bfa" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 32.21 167.25 A 85 85 0 0 1 45.29 99.37 L 76.45 121.11 A 47 47 0 0 0 69.22 158.64 Z" fill="#fbbf24" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 45.29 99.37 A 85 85 0 0 1 75.12 72.94 L 92.95 106.49 A 47 47 0 0 0 76.45 121.11 Z" fill="#f87171" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 75.12 72.94 A 85 85 0 0 1 89.18 67.02 L 100.72 103.22 A 47 47 0 0 0 92.95 106.49 Z" fill="#2dd4bf" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 89.18 67.02 A 85 85 0 0 1 95.72 65.22 L 104.34 102.23 A 47 47 0 0 0 100.72 103.22 Z" fill="#fb923c" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 95.72 65.22 A 85 85 0 0 1 115.00 63.00 L 115.00 101.00 A 47 47 0 0 0 104.34 102.23 Z" fill="#e879f9" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 115.00 63.00 A 85 85 0 0 1 196.00 173.76 L 159.79 162.25 A 47 47 0 0 0 115.00 101.00 Z" fill="#38bdf8" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 196.00 173.76 A 85 85 0 0 1 75.46 223.24 L 93.14 189.60 A 47 47 0 0 0 159.79 162.25 Z" fill="#34d399" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 75.46 223.24 A 85 85 0 0 1 32.23 167.34 L 69.23 158.69 A 47 47 0 0 0 93.14 189.60 Z" fill="#a78bfa" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 32.23 167.34 A 85 85 0 0 1 45.26 99.41 L 76.44 121.13 A 47 47 0 0 0 69.23 158.69 Z" fill="#fbbf24" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 45.26 99.41 A 85 85 0 0 1 75.10 72.95 L 92.94 106.50 A 47 47 0 0 0 76.44 121.13 Z" fill="#f87171" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 75.10 72.95 A 85 85 0 0 1 89.17 67.02 L 100.72 103.22 A 47 47 0 0 0 92.94 106.50 Z" fill="#2dd4bf" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 89.17 67.02 A 85 85 0 0 1 95.71 65.22 L 104.33 102.23 A 47 47 0 0 0 100.72 103.22 Z" fill="#fb923c" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 95.71 65.22 A 85 85 0 0 1 115.00 63.00 L 115.00 101.00 A 47 47 0 0 0 104.33 102.23 Z" fill="#e879f9" stroke="#0b1120" stroke-width="2"/>
   <circle cx="115" cy="148" r="45" fill="#0b1120"/>
   <line x1="205" y1="48" x2="205" y2="234" stroke="#94a3b8" stroke-width="0.4" opacity="0.3"/>
   <circle cx="226" cy="64.0" r="5" fill="#38bdf8"/>
