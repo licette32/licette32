@@ -2,28 +2,28 @@
   <rect width="480" height="250" fill="#0b1120" rx="10"/>
   <text x="22" y="28" font-family="monospace" font-size="13" font-weight="bold" fill="#60a5fa">Top Languages by Repo</text>
   <line x1="22" y1="40" x2="458" y2="40" stroke="#60a5fa" stroke-width="0.5" opacity="0.25"/>
-  <path d="M 115.00 63.00 A 85 85 0 0 1 190.22 187.58 L 156.59 169.89 A 47 47 0 0 0 115.00 101.00 Z" fill="#38bdf8" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 190.22 187.58 A 85 85 0 0 1 68.09 218.88 L 89.06 187.19 A 47 47 0 0 0 156.59 169.89 Z" fill="#34d399" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 68.09 218.88 A 85 85 0 0 1 31.04 161.28 L 68.58 155.34 A 47 47 0 0 0 89.06 187.19 Z" fill="#a78bfa" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 31.04 161.28 A 85 85 0 0 1 47.07 96.91 L 77.44 119.75 A 47 47 0 0 0 68.58 155.34 Z" fill="#fbbf24" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 47.07 96.91 A 85 85 0 0 1 76.69 72.12 L 93.82 106.04 A 47 47 0 0 0 77.44 119.75 Z" fill="#f87171" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 76.69 72.12 A 85 85 0 0 1 90.25 66.68 L 101.32 103.04 A 47 47 0 0 0 93.82 106.04 Z" fill="#2dd4bf" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 90.25 66.68 A 85 85 0 0 1 96.53 65.03 L 104.79 102.12 A 47 47 0 0 0 101.32 103.04 Z" fill="#fb923c" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 96.53 65.03 A 85 85 0 0 1 115.00 63.00 L 115.00 101.00 A 47 47 0 0 0 104.79 102.12 Z" fill="#e879f9" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 115.00 63.00 A 85 85 0 0 1 189.61 188.72 L 156.26 170.52 A 47 47 0 0 0 115.00 101.00 Z" fill="#38bdf8" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 189.61 188.72 A 85 85 0 0 1 67.44 218.45 L 88.70 186.95 A 47 47 0 0 0 156.26 170.52 Z" fill="#34d399" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 67.44 218.45 A 85 85 0 0 1 30.96 160.76 L 68.53 155.05 A 47 47 0 0 0 88.70 186.95 Z" fill="#a78bfa" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 30.96 160.76 A 85 85 0 0 1 47.24 96.68 L 77.53 119.62 A 47 47 0 0 0 68.53 155.05 Z" fill="#fbbf24" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 47.24 96.68 A 85 85 0 0 1 76.82 72.06 L 93.89 106.01 A 47 47 0 0 0 77.53 119.62 Z" fill="#f87171" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 76.82 72.06 A 85 85 0 0 1 90.34 66.66 L 101.36 103.02 A 47 47 0 0 0 93.89 106.01 Z" fill="#2dd4bf" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 90.34 66.66 A 85 85 0 0 1 96.59 65.02 L 104.82 102.12 A 47 47 0 0 0 101.36 103.02 Z" fill="#fb923c" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 96.59 65.02 A 85 85 0 0 1 115.00 63.00 L 115.00 101.00 A 47 47 0 0 0 104.82 102.12 Z" fill="#e879f9" stroke="#0b1120" stroke-width="2"/>
   <circle cx="115" cy="148" r="45" fill="#0b1120"/>
   <line x1="205" y1="48" x2="205" y2="234" stroke="#94a3b8" stroke-width="0.4" opacity="0.3"/>
   <circle cx="226" cy="64.0" r="5" fill="#38bdf8"/>
   <text x="236" y="64.0" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">TypeScript</text>
-  <text x="464" y="64.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">32.7%</text>
+  <text x="464" y="64.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">33.0%</text>
   <circle cx="226" cy="85.5" r="5" fill="#34d399"/>
   <text x="236" y="85.5" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">Python</text>
-  <text x="464" y="85.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">26.6%</text>
+  <text x="464" y="85.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">26.5%</text>
   <circle cx="226" cy="107.0" r="5" fill="#a78bfa"/>
   <text x="236" y="107.0" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">JavaScript</text>
   <text x="464" y="107.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">13.2%</text>
   <circle cx="226" cy="128.5" r="5" fill="#fbbf24"/>
   <text x="236" y="128.5" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">Java</text>
-  <text x="464" y="128.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">12.8%</text>
+  <text x="464" y="128.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">12.7%</text>
   <circle cx="226" cy="150.0" r="5" fill="#f87171"/>
   <text x="236" y="150.0" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">Rust</text>
   <text x="464" y="150.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">7.3%</text>
