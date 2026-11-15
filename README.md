@@ -155,44 +155,18 @@ Contribuyo de forma activa en el desarrollo de infraestructura, optimización de
 
 </div>
 
-<br>
-
-<div align="center">
-
-<!-- Activity graph — patrón de contribuciones en el tiempo -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=licette32&bg_color=0b1120&color=60a5fa&line=38bdf8&point=a78bfa&area=true&area_color=1e3a5f&hide_border=true" width="98%" alt="Contribution Activity"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- Trophies — logros gamificados -->
-<img src="https://github-profile-trophy.vercel.app/?username=licette32&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" width="98%" alt="GitHub Trophies"/>
-
-</div>
-
 ---
 
 ### Contacto / Contact
 
 <div align="center">
 
-<a href="mailto:beverly.jlgc@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=ea4335"/>
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/beverly-j-l-gonzalez-c">
   <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=60a5fa"/>
 </a>
 &nbsp;
 <a href="https://x.com/LicetteGC">
   <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0f172a?style=flat-square&logo=x&logoColor=e2e8f0"/>
-</a>
-&nbsp;
-<a href="https://discordapp.com/users/licettegc">
-  <img src="https://img.shields.io/badge/Discord-0f172a?style=flat-square&logo=discord&logoColor=5865F2"/>
 </a>
 
 </div>
