@@ -2,38 +2,38 @@
   <rect width="480" height="250" fill="#0b1120" rx="10"/>
   <text x="22" y="28" font-family="monospace" font-size="13" font-weight="bold" fill="#60a5fa">Top Languages by Repo</text>
   <line x1="22" y1="40" x2="458" y2="40" stroke="#60a5fa" stroke-width="0.5" opacity="0.25"/>
-  <path d="M 115.00 63.00 A 85 85 0 0 1 161.53 219.13 L 140.73 187.33 A 47 47 0 0 0 115.00 101.00 Z" fill="#38bdf8" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 161.53 219.13 A 85 85 0 0 1 42.03 191.59 L 74.65 172.10 A 47 47 0 0 0 140.73 187.33 Z" fill="#34d399" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 42.03 191.59 A 85 85 0 0 1 31.91 130.09 L 69.05 138.10 A 47 47 0 0 0 74.65 172.10 Z" fill="#a78bfa" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 31.91 130.09 A 85 85 0 0 1 57.35 85.54 L 83.12 113.46 A 47 47 0 0 0 69.05 138.10 Z" fill="#fbbf24" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 57.35 85.54 A 85 85 0 0 1 82.47 69.47 L 97.01 104.58 A 47 47 0 0 0 83.12 113.46 Z" fill="#f87171" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 82.47 69.47 A 85 85 0 0 1 93.06 65.88 L 102.87 102.59 A 47 47 0 0 0 97.01 104.58 Z" fill="#2dd4bf" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 93.06 65.88 A 85 85 0 0 1 97.89 64.74 L 105.54 101.96 A 47 47 0 0 0 102.87 102.59 Z" fill="#fb923c" stroke="#0b1120" stroke-width="2"/>
-  <path d="M 97.89 64.74 A 85 85 0 0 1 115.00 63.00 L 115.00 101.00 A 47 47 0 0 0 105.54 101.96 Z" fill="#e879f9" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 115.00 63.00 A 85 85 0 0 1 149.17 225.83 L 133.89 191.04 A 47 47 0 0 0 115.00 101.00 Z" fill="#38bdf8" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 149.17 225.83 A 85 85 0 0 1 38.26 184.55 L 72.57 168.21 A 47 47 0 0 0 133.89 191.04 Z" fill="#34d399" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 38.26 184.55 A 85 85 0 0 1 33.14 125.11 L 69.74 135.34 A 47 47 0 0 0 72.57 168.21 Z" fill="#a78bfa" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 33.14 125.11 A 85 85 0 0 1 59.45 83.66 L 84.28 112.43 A 47 47 0 0 0 69.74 135.34 Z" fill="#fbbf24" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 59.45 83.66 A 85 85 0 0 1 83.85 68.91 L 97.77 104.27 A 47 47 0 0 0 84.28 112.43 Z" fill="#f87171" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 83.85 68.91 A 85 85 0 0 1 94.01 65.63 L 103.39 102.46 A 47 47 0 0 0 97.77 104.27 Z" fill="#2dd4bf" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 94.01 65.63 A 85 85 0 0 1 98.64 64.59 L 105.95 101.88 A 47 47 0 0 0 103.39 102.46 Z" fill="#fb923c" stroke="#0b1120" stroke-width="2"/>
+  <path d="M 98.64 64.59 A 85 85 0 0 1 115.00 63.00 L 115.00 101.00 A 47 47 0 0 0 105.95 101.88 Z" fill="#e879f9" stroke="#0b1120" stroke-width="2"/>
   <circle cx="115" cy="148" r="45" fill="#0b1120"/>
   <line x1="205" y1="48" x2="205" y2="234" stroke="#94a3b8" stroke-width="0.4" opacity="0.3"/>
   <circle cx="226" cy="64.0" r="5" fill="#38bdf8"/>
   <text x="236" y="64.0" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">Python</text>
-  <text x="464" y="64.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">40.8%</text>
+  <text x="464" y="64.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">43.4%</text>
   <circle cx="226" cy="85.5" r="5" fill="#34d399"/>
   <text x="236" y="85.5" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">TypeScript</text>
-  <text x="464" y="85.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">25.7%</text>
+  <text x="464" y="85.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">24.5%</text>
   <circle cx="226" cy="107.0" r="5" fill="#a78bfa"/>
   <text x="236" y="107.0" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">JavaScript</text>
-  <text x="464" y="107.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">11.9%</text>
+  <text x="464" y="107.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">11.4%</text>
   <circle cx="226" cy="128.5" r="5" fill="#fbbf24"/>
   <text x="236" y="128.5" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">Java</text>
-  <text x="464" y="128.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">9.8%</text>
+  <text x="464" y="128.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">9.3%</text>
   <circle cx="226" cy="150.0" r="5" fill="#f87171"/>
   <text x="236" y="150.0" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">Rust</text>
-  <text x="464" y="150.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">5.6%</text>
+  <text x="464" y="150.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">5.4%</text>
   <circle cx="226" cy="171.5" r="5" fill="#2dd4bf"/>
   <text x="236" y="171.5" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">EJS</text>
-  <text x="464" y="171.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">2.1%</text>
+  <text x="464" y="171.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">2.0%</text>
   <circle cx="226" cy="193.0" r="5" fill="#fb923c"/>
   <text x="236" y="193.0" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">Pascal</text>
   <text x="464" y="193.0" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">0.9%</text>
   <circle cx="226" cy="214.5" r="5" fill="#e879f9"/>
   <text x="236" y="214.5" font-family="monospace" font-size="11" fill="#e2e8f0" dominant-baseline="middle">Other</text>
-  <text x="464" y="214.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">3.2%</text>
+  <text x="464" y="214.5" font-family="monospace" font-size="11" fill="#60a5fa" font-weight="bold" text-anchor="end" dominant-baseline="middle">3.1%</text>
 </svg>
